@@ -1,14 +1,11 @@
 # Online Appointment Booking System
-
-## 📌 Problem Statement
-Healthcare clinics often face challenges in managing patient appointments efficiently. Patients struggle with long wait times, difficulty in scheduling, and lack of transparency regarding doctor availability. The **Online Appointment Booking System** aims to streamline the scheduling process, allowing patients to book appointments with available doctors through a user-friendly interface.
-
 ---
+
+### 📌 Problem Statement
+Healthcare clinics often face challenges in managing patient appointments efficiently. Patients struggle with long wait times, difficulty in scheduling, and lack of transparency regarding doctor availability. The **Online Appointment Booking System** aims to streamline the scheduling process, allowing patients to book appointments with available doctors through a user-friendly interface.
 
 ### 1️⃣ Project Overview
 The **Online Appointment Booking System** is a web-based platform that enables patients to schedule medical appointments with doctors based on availability. The system will include features for **patients, doctors, and administrators** to ensure smooth appointment management.
-
----
 
 ### 2️⃣ Project Objectives
 ✅ Provide an easy-to-use interface for patients to book, reschedule, or cancel appointments.  
@@ -16,9 +13,7 @@ The **Online Appointment Booking System** is a web-based platform that enables p
 ✅ Send automated notifications (email/SMS) to patients and doctors.  
 ✅ Maintain a record of all past and upcoming appointments.  
 
----
-
-## 📂 Project Structure
+### 📂 Project Structure
 - 📁 **Online-Booking-for-Healthcare-Clinic**
   - 📄 README.md
   - 📁 Requirements
@@ -28,12 +23,10 @@ The **Online Appointment Booking System** is a web-based platform that enables p
   - 📁 UI_Designs
   - 📁 Presentation
 
----
-
-## 📜 License
+### 📜 License
 This project is licensed under the MIT License – feel free to modify and use it.
 
-## 📩 Contact
+### 📩 Contact
 For any inquiries or contributions, feel free to reach out:
 ✉️ Email: devhub1992@gmail.com
 🌐 GitHub: ZohaibWaqarMalik
