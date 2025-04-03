@@ -19,15 +19,14 @@ The **Online Appointment Booking System** is a web-based platform that enables p
 ---
 
 ## 📂 Project Structure
-	📁 **Online-Booking-for-Healthcare-Clinic**  
-	├── 📄 README.md  
-	├── 📁 Requirements  
-	├── 📁 Diagrams  
-	├── 📁 Data  
-	├── 📁 Docs  
-	├── 📁 UI_Designs  
-	└── 📁 Presentation  
-
+- 📁 **Online-Booking-for-Healthcare-Clinic**
+  - 📄 README.md
+  - 📁 Requirements
+  - 📁 Diagrams
+  - 📁 Data
+  - 📁 Docs
+  - 📁 UI_Designs
+  - 📁 Presentation
 
 ---
 
