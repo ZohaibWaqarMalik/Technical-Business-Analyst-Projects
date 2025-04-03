@@ -1,4 +1,4 @@
-# Online Appointment Booking System
+# Online Appointment for Healthcare Clinic
 
 ## 📌 Problem Statement
 Healthcare clinics often face challenges in managing patient appointments efficiently. Patients struggle with long wait times, difficulty in scheduling, and lack of transparency regarding doctor availability. The **Online Appointment Booking System** aims to streamline the scheduling process, allowing patients to book appointments with available doctors through a user-friendly interface.
