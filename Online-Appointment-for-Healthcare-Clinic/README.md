@@ -19,14 +19,16 @@ The **Online Appointment Booking System** is a web-based platform that enables p
 ---
 
 ## 📂 Project Structure
-   📁 Online-Booking-for-Healthcare-Clinic 
-   ├── 📄 README.md
-   ├── 📁 Requirements 
-   ├── 📁 Diagrams 
-   ├── 📁 Data
-   ├── 📁 Docs
-   ├── 📁 UI_Designs
-   ├── 📁 Presentation
+
+ 📁 **Online-Booking-for-Healthcare-Clinic**
+ 
+  ├── 📄 README.md  
+  ├── 📁 Requirements  
+  ├── 📁 Diagrams  
+  ├── 📁 Data  
+  ├── 📁 Docs  
+  ├── 📁 UI_Designs  
+  ├── 📁 Presentation  
 
 ---
 
@@ -34,6 +36,6 @@ The **Online Appointment Booking System** is a web-based platform that enables p
 This project is licensed under the MIT License – feel free to modify and use it.
 
 ## 📩 Contact
-For any inquiries or contributions, feel free to reach out:
-✉️ Email: devhub1992@gmail.com
-🌐 GitHub: ZohaibWaqarMalik
+For any inquiries or contributions, feel free to reach out:  
+✉️ Email: devhub1992@gmail.com   OR zohaibwaqarmalik@gmail.com  
+🌐 GitHub: ZohaibWaqarMalik  
