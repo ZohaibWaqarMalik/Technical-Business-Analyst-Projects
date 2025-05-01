@@ -9,23 +9,23 @@ LMS-SysCollege is a web-based Learning Management System designed specifically f
 
 # 🎯 Project Objectives
 
-✅ Facilitate course creation and content upload by instructors 
-✅ Enable students to access course materials, submit assignments, and receive feedback 
-✅ Automate grade calculation and performance tracking 
-✅ Provide dashboards and analytics for all user roles 
-✅ Allow administrators to manage users, roles, and academic settings 
-✅ Support notifications for deadlines, announcements, and grades 
+✅ Facilitate course creation and content upload by instructors  
+✅ Enable students to access course materials, submit assignments, and receive feedback  
+✅ Automate grade calculation and performance tracking  
+✅ Provide dashboards and analytics for all user roles  
+✅ Allow administrators to manage users, roles, and academic settings  
+✅ Support notifications for deadlines, announcements, and grades  
 
 
-📁 **02 - LMS-SysCollege** 
-├── 📄 README.md 
-├── 📁 01-Requirements Elicitation 
-├── 📁 02-Diagrams 
-├── 📁 03-Data 
-├── 📁 04-Documents 
-├── 📁 05-UI_Designs 
+📁 **02 - LMS-SysCollege**  
+├── 📄 README.md  
+├── 📁 01-Requirements Elicitation  
+├── 📁 02-Diagrams  
+├── 📁 03-Data  
+├── 📁 04-Documents  
+├── 📁 05-UI_Designs  
 ├── 📁 06-Presentation 
-
+ 
 # 🛠️ Key Features
 📦 Modular Course Management – Add/edit courses, sections, and content
 
