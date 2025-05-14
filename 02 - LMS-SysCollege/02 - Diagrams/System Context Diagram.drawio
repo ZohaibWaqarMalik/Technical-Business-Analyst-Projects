@@ -366,6 +366,22 @@
             <mxPoint x="550" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Vb__ZJzH-cQLzNxRptrh-17" value="&lt;b&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Verdana&quot;&gt;Sync User Accounts&lt;/font&gt;&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Vb__ZJzH-cQLzNxRptrh-16">
+          <mxGeometry x="0.1034" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vb__ZJzH-cQLzNxRptrh-18" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.9;exitY=0.05;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.636;entryY=0.992;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PJatKT9wjX2m28LQ-qIB-8" target="Xvql2AdoNt05fyFsp_AF-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="760" y="560" as="sourcePoint" />
+            <mxPoint x="683" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vb__ZJzH-cQLzNxRptrh-19" value="&lt;b&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Verdana&quot;&gt;Access Control&lt;/font&gt;&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Vb__ZJzH-cQLzNxRptrh-18">
+          <mxGeometry x="0.1034" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
