@@ -8,44 +8,80 @@
           <mxGeometry x="40" y="80" width="850" height="430" as="geometry" />
         </mxCell>
         <mxCell id="rxXcTsBDmJyJXdscW_Ro-3" value="Admin Staff" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="rxXcTsBDmJyJXdscW_Ro-2">
-          <mxGeometry y="23" width="130" height="407" as="geometry" />
-        </mxCell>
-        <mxCell id="rxXcTsBDmJyJXdscW_Ro-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="rxXcTsBDmJyJXdscW_Ro-3" source="rxXcTsBDmJyJXdscW_Ro-6" target="rxXcTsBDmJyJXdscW_Ro-7">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry y="23" width="140" height="407" as="geometry" />
         </mxCell>
         <mxCell id="rxXcTsBDmJyJXdscW_Ro-6" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="rxXcTsBDmJyJXdscW_Ro-3">
           <mxGeometry x="50" y="57" width="40" height="33" as="geometry" />
         </mxCell>
         <mxCell id="rxXcTsBDmJyJXdscW_Ro-7" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;b&gt;Enroll Student&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="rxXcTsBDmJyJXdscW_Ro-3">
-          <mxGeometry x="20" y="117" width="100" height="33.5" as="geometry" />
+          <mxGeometry x="32" y="117" width="100" height="33.5" as="geometry" />
         </mxCell>
-        <mxCell id="rxXcTsBDmJyJXdscW_Ro-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="rxXcTsBDmJyJXdscW_Ro-3" source="rxXcTsBDmJyJXdscW_Ro-6">
+        <mxCell id="rxXcTsBDmJyJXdscW_Ro-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="rxXcTsBDmJyJXdscW_Ro-3" source="rxXcTsBDmJyJXdscW_Ro-6" target="rxXcTsBDmJyJXdscW_Ro-14">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="20" y="257" as="sourcePoint" />
+            <mxPoint x="66" y="73.5" as="sourcePoint" />
             <mxPoint x="50" y="217" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="10" y="74" />
-              <mxPoint x="10" y="147" />
-              <mxPoint x="10" y="217" />
+              <mxPoint x="26" y="74" />
+              <mxPoint x="26" y="147" />
+              <mxPoint x="26" y="194" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="rxXcTsBDmJyJXdscW_Ro-14" value="Manage&lt;div&gt;Schedule&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontFamily=Verdana;fontStyle=1" vertex="1" parent="rxXcTsBDmJyJXdscW_Ro-3">
-          <mxGeometry x="50" y="197" width="70" height="53" as="geometry" />
+          <mxGeometry x="52" y="167" width="80" height="53" as="geometry" />
         </mxCell>
-        <mxCell id="rxXcTsBDmJyJXdscW_Ro-4" value="Student Information System" style="swimlane;whiteSpace=wrap;html=1;startSize=23;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" vertex="1" parent="rxXcTsBDmJyJXdscW_Ro-2">
-          <mxGeometry x="131" y="23" width="189" height="407" as="geometry">
+        <mxCell id="rxXcTsBDmJyJXdscW_Ro-15" value="Monitor&lt;div&gt;Complience&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontFamily=Verdana;fontStyle=1" vertex="1" parent="rxXcTsBDmJyJXdscW_Ro-3">
+          <mxGeometry x="52" y="237" width="80" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="rxXcTsBDmJyJXdscW_Ro-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="rxXcTsBDmJyJXdscW_Ro-3" source="rxXcTsBDmJyJXdscW_Ro-6" target="rxXcTsBDmJyJXdscW_Ro-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="44" y="62.25" as="sourcePoint" />
+            <mxPoint x="44" y="205.25" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="20" y="62.25" />
+              <mxPoint x="20" y="135.25" />
+              <mxPoint x="20" y="205.25" />
+              <mxPoint x="20" y="264" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rxXcTsBDmJyJXdscW_Ro-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.38;entryY=0.03;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="rxXcTsBDmJyJXdscW_Ro-3" source="rxXcTsBDmJyJXdscW_Ro-6" target="rxXcTsBDmJyJXdscW_Ro-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="127" as="sourcePoint" />
+            <mxPoint x="110" y="77" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rxXcTsBDmJyJXdscW_Ro-4" value="SIS" style="swimlane;whiteSpace=wrap;html=1;startSize=23;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" vertex="1" parent="rxXcTsBDmJyJXdscW_Ro-2">
+          <mxGeometry x="140" y="23" width="140" height="407" as="geometry">
             <mxRectangle x="201" y="23" width="190" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rxXcTsBDmJyJXdscW_Ro-9" value="Sync Student" style="whiteSpace=wrap;html=1;fontFamily=Verdana;fontStyle=1" vertex="1" parent="rxXcTsBDmJyJXdscW_Ro-4">
-          <mxGeometry x="51.75" y="137" width="108.25" height="33" as="geometry" />
+          <mxGeometry x="16.75" y="137" width="108.25" height="33" as="geometry" />
         </mxCell>
         <mxCell id="rxXcTsBDmJyJXdscW_Ro-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="rxXcTsBDmJyJXdscW_Ro-2" source="rxXcTsBDmJyJXdscW_Ro-7" target="rxXcTsBDmJyJXdscW_Ro-9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="65" y="180" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rxXcTsBDmJyJXdscW_Ro-19" value="Faculty" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="rxXcTsBDmJyJXdscW_Ro-2">
+          <mxGeometry x="280" y="23" width="140" height="407" as="geometry" />
+        </mxCell>
+        <mxCell id="rxXcTsBDmJyJXdscW_Ro-21" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;b&gt;Create and Manage Course for Students&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="rxXcTsBDmJyJXdscW_Ro-19">
+          <mxGeometry x="32" y="114" width="100" height="83" as="geometry" />
+        </mxCell>
+        <mxCell id="rxXcTsBDmJyJXdscW_Ro-28" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;b&gt;Upload Contents&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="rxXcTsBDmJyJXdscW_Ro-19">
+          <mxGeometry x="32" y="220" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rxXcTsBDmJyJXdscW_Ro-29" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;b&gt;Manage Grades&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="rxXcTsBDmJyJXdscW_Ro-19">
+          <mxGeometry x="32" y="277" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rxXcTsBDmJyJXdscW_Ro-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="rxXcTsBDmJyJXdscW_Ro-2" source="rxXcTsBDmJyJXdscW_Ro-9" target="rxXcTsBDmJyJXdscW_Ro-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="320" as="sourcePoint" />
+            <mxPoint x="310" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
