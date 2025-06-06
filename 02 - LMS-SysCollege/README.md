@@ -20,10 +20,9 @@ LMS-SysCollege is a web-based Learning Management System designed specifically f
 📁 **02 - LMS-SysCollege**  
 ├── 📄 README.md  
 ├── 📁 01-Requirements Elicitation  
-├── 📁 02-Diagrams  
-├── 📁 03-Data  
-├── 📁 04-Documents  
-├── 📁 05-UI_Designs
+├── 📁 02-Diagrams   
+├── 📁 03-Documents  
+├── 📁 04-UI_Designs
  
 ## 🛠️ Key Features
 📦 **Modular Course Management** – Add/edit courses, sections, and content  
