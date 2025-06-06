@@ -32,8 +32,8 @@ LMS-SysCollege is a web-based Learning Management System designed specifically f
 🔔 **Notifications** – Email/SMS alerts for key events  
 
 ## 🚀 Technology Stack (Planned/Proposed)  
-**Frontend:** React / Angular / MVC 5  
-**Backend:** C# / Node.js / Django / Spring Boot  
+**Frontend:** MVC 5 / React / Angular
+**Backend:** C#  
 **Database:** PostgreSQL / MySQL  
 **Authentication:** JWT / OAuth 2.0  
 **Hosting:** AZURE / AWS / Heroku / Firebase  
