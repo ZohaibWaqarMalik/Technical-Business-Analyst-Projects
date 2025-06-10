@@ -20,11 +20,9 @@ LMS-SysCollege is a web-based Learning Management System designed specifically f
 📁 **02 - LMS-SysCollege**  
 ├── 📄 README.md  
 ├── 📁 01-Requirements Elicitation  
-├── 📁 02-Diagrams  
-├── 📁 03-Data  
-├── 📁 04-Documents  
-├── 📁 05-UI_Designs  
-├── 📁 06-Presentation 
+├── 📁 02-Diagrams   
+├── 📁 03-Documents  
+├── 📁 04-UI_Designs
  
 ## 🛠️ Key Features
 📦 **Modular Course Management** – Add/edit courses, sections, and content  
@@ -34,8 +32,8 @@ LMS-SysCollege is a web-based Learning Management System designed specifically f
 🔔 **Notifications** – Email/SMS alerts for key events  
 
 ## 🚀 Technology Stack (Planned/Proposed)  
-**Frontend:** React / Angular / MVC 5  
-**Backend:** C# / Node.js / Django / Spring Boot  
+**Frontend:** MVC 5 / React / Angular  
+**Backend:** C#  
 **Database:** PostgreSQL / MySQL  
 **Authentication:** JWT / OAuth 2.0  
 **Hosting:** AZURE / AWS / Heroku / Firebase  
