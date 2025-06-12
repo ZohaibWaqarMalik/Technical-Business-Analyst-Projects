@@ -277,7 +277,7 @@
         <mxCell id="21hm75iPjgF-RK_cx-ra-11" value="&lt;font style=&quot;color: rgb(77, 153, 0);&quot;&gt;&lt;font&gt;Forget Password?&lt;/font&gt;&lt;/font&gt;" style="text;html=1;points=[];align=right;verticalAlign=top;spacingTop=-4;fontSize=16;fontFamily=Verdana" vertex="1" parent="qP8m37FSdHObqaSFOgQu-2">
           <mxGeometry x="186" y="657" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="21hm75iPjgF-RK_cx-ra-12" value="LOG IN" style="whiteSpace=wrap;html=1;dashed=0;align=center;fontSize=12;shape=rect;fillColor=#4D9900;strokeColor=none;fontStyle=1;shadow=1;fontColor=#ffffff;" vertex="1" parent="qP8m37FSdHObqaSFOgQu-2">
+        <mxCell id="21hm75iPjgF-RK_cx-ra-12" value="LOG IN" style="whiteSpace=wrap;html=1;dashed=0;align=center;fontSize=14;shape=rect;fillColor=#4D9900;strokeColor=none;fontStyle=1;shadow=1;fontColor=#ffffff;fontFamily=Verdana;" vertex="1" parent="qP8m37FSdHObqaSFOgQu-2">
           <mxGeometry x="20" y="700" width="350" height="36" as="geometry" />
         </mxCell>
         <mxCell id="SMvWzp-42kMCuo-kqZ3T-0" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;fillColor=#ffffff;rounded=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;" vertex="1" parent="qP8m37FSdHObqaSFOgQu-1">
