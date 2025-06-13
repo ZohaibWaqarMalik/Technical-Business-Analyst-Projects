@@ -304,13 +304,34 @@
           <mxGeometry x="30" y="170" width="420" height="110" as="geometry" />
         </mxCell>
         <mxCell id="8Hk-sZnAKD3I9ppgXrJD-6" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;Your academic&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;journey starts here.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;One account. &lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(77, 153, 0), rgb(255, 255, 255));&quot;&gt;&lt;b&gt;&lt;i&gt;Endless knowledge.&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=26;fontFamily=Verdana" vertex="1" parent="8Hk-sZnAKD3I9ppgXrJD-2">
-          <mxGeometry x="20" y="430" width="420" height="40" as="geometry" />
+          <mxGeometry x="17" y="389" width="420" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8Hk-sZnAKD3I9ppgXrJD-15" value="Register" style="whiteSpace=wrap;html=1;dashed=0;align=center;fontSize=14;shape=rect;fillColor=#4D9900;strokeColor=none;fontStyle=1;shadow=1;fontColor=#ffffff;fontFamily=Verdana;" vertex="1" parent="8Hk-sZnAKD3I9ppgXrJD-2">
-          <mxGeometry x="20" y="700" width="350" height="36" as="geometry" />
+          <mxGeometry x="20" y="768" width="420" height="36" as="geometry" />
         </mxCell>
         <mxCell id="wIcK3HSbcPUCHCFmjVPX-0" value="Join Sys College LMS — Where Learning is Smarter,&amp;nbsp;&lt;div&gt;Faster, and Always Within Reach.&amp;nbsp;&lt;br&gt;&lt;/div&gt;" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontFamily=Verdana" vertex="1" parent="8Hk-sZnAKD3I9ppgXrJD-2">
           <mxGeometry x="20" y="300" width="420" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wIcK3HSbcPUCHCFmjVPX-2" value="" style="dashed=0;shape=line;strokeWidth=1;noLabel=1;strokeColor=#cccccc;opacity=50;" vertex="1" parent="8Hk-sZnAKD3I9ppgXrJD-2">
+          <mxGeometry x="20" y="354" width="420" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="wIcK3HSbcPUCHCFmjVPX-3" value="First Name" style="text;fontSize=16;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;html=1;" vertex="1" parent="8Hk-sZnAKD3I9ppgXrJD-2">
+          <mxGeometry x="17" y="460" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wIcK3HSbcPUCHCFmjVPX-4" value="" style="dashed=0;shape=line;strokeWidth=1;noLabel=1;strokeColor=#eeeeee;" vertex="1" parent="8Hk-sZnAKD3I9ppgXrJD-2">
+          <mxGeometry x="17" y="485" width="210" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="wIcK3HSbcPUCHCFmjVPX-5" value="Last Name" style="text;fontSize=16;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;html=1;" vertex="1" parent="8Hk-sZnAKD3I9ppgXrJD-2">
+          <mxGeometry x="240" y="460" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wIcK3HSbcPUCHCFmjVPX-6" value="" style="dashed=0;shape=line;strokeWidth=1;noLabel=1;strokeColor=#eeeeee;" vertex="1" parent="8Hk-sZnAKD3I9ppgXrJD-2">
+          <mxGeometry x="240" y="485" width="210" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="wIcK3HSbcPUCHCFmjVPX-7" value="Sys College Email Address" style="text;fontSize=16;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;html=1;" vertex="1" parent="8Hk-sZnAKD3I9ppgXrJD-2">
+          <mxGeometry x="17" y="500" width="423" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wIcK3HSbcPUCHCFmjVPX-8" value="" style="dashed=0;shape=line;strokeWidth=1;noLabel=1;strokeColor=#eeeeee;" vertex="1" parent="8Hk-sZnAKD3I9ppgXrJD-2">
+          <mxGeometry x="17" y="525" width="433" height="10" as="geometry" />
         </mxCell>
         <mxCell id="8Hk-sZnAKD3I9ppgXrJD-16" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;fillColor=#ffffff;rounded=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;" vertex="1" parent="8Hk-sZnAKD3I9ppgXrJD-1">
           <mxGeometry x="490" y="130" width="590" height="710" as="geometry" />
