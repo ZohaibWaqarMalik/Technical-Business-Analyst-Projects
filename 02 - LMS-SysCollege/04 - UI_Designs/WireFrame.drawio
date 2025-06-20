@@ -1426,15 +1426,6 @@
         <mxCell id="jLWQZwtSL4VfNhrxyEf_-22" value="" style="dashed=0;shape=line;strokeWidth=1;noLabel=1;strokeColor=#cccccc;opacity=50;fontSize=14;" vertex="1" parent="otYGoX5y3nqKZkkIvj_9-4">
           <mxGeometry x="3" y="132.5" width="567" height="1" as="geometry" />
         </mxCell>
-        <mxCell id="jLWQZwtSL4VfNhrxyEf_-25" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.download;" vertex="1" parent="otYGoX5y3nqKZkkIvj_9-4">
-          <mxGeometry x="547" y="49" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="jLWQZwtSL4VfNhrxyEf_-26" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.download;" vertex="1" parent="otYGoX5y3nqKZkkIvj_9-4">
-          <mxGeometry x="547" y="78.5" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="jLWQZwtSL4VfNhrxyEf_-27" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.download;" vertex="1" parent="otYGoX5y3nqKZkkIvj_9-4">
-          <mxGeometry x="547" y="110" width="20" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="otYGoX5y3nqKZkkIvj_9-5" value="&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td data-col-size=&quot;sm&quot; data-end=&quot;4228&quot; data-start=&quot;4196&quot;&gt;&lt;strong data-end=&quot;4219&quot; data-start=&quot;4198&quot;&gt;Plagiarism Notice :&amp;nbsp;&lt;/strong&gt;&lt;span data-end=&quot;4219&quot; data-start=&quot;4198&quot;&gt;Your submission will be checked for originality&lt;br&gt;&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#777777;fontSize=16;" vertex="1" parent="jLWQZwtSL4VfNhrxyEf_-2">
           <mxGeometry x="20" y="431.1" width="590" height="30" as="geometry" />
         </mxCell>
